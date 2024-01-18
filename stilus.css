@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(207, 123, 123);
+    font-family: 'Salsa', cursive;
+}
+table,th,td {
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+
+
+
+
+table{
+    border: 2px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 2px solid black;
+}
+.kek{
+    background-color: blue;
+}
+.magyar{
+    background-color: orange;
+}
+.irodalom{
+    background-color: yellow;
+}
+.angol{
+    background-color: red;
+}
+.matek{
+    background-color: aqua;
+}
+.huha{
+    background-color: rgb(rgb(161, 16, 190), );
+}
+.foldrajz{
+    background-color: greenyellow;
+}
+.ital{
+    background-color: hotpink;
+}
+.kemia{
+    background-color: darkslategray;
+}
+.tesi{
+    background-color: khaki;
+}
+.iprl{
+    background-color: chocolate;
+}
+.tori{
+    background-color: brown;
+}
+.ofoi{
+    background-color: dodgerblue;
+}
+.pra{
+    background-color: darkorchid;
+}
